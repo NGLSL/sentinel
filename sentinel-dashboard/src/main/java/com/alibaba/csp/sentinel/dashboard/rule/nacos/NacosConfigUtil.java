@@ -43,6 +43,14 @@ public final class NacosConfigUtil {
      * 系统规则POSTFIX
      */
     public static final String SYSTEM_RULE_DATA_ID_POSTFIX = "-system-rules.json";
+    /**
+     * 网关API POSTFIX
+     */
+    public static final String GATEWAY_API_RULE_DATA_ID_POSTFIX = "-gateway-api-rules.json";
+    /**
+     * gateway 流控规则POSTFIX
+     */
+    public static final String GATEWAY_FLOW_RULE_DATA_ID_POSTFIX = "-gateway-flow-rules.json";
     public static final String CLUSTER_MAP_DATA_ID_POSTFIX = "-cluster-map";
 
     /**
